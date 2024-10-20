@@ -1,0 +1,4 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Listar Productos,5335,1078,906,1621,1978,4617,535,21882,0.037%,20.96267,252.04,5.16
+Agregar Producto,5269,425,404,446,500,950,361,5777,0.000%,20.70147,249.19,10.35
+TOTAL,10604,754,591,1294,1636,2909,361,21882,0.019%,41.48459,499.07,15.44

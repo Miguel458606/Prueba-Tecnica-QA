@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Listar Productos,5335,1078,535,21882,842.31,0.037%,20.96267,252.04,5.16,12311.9
+Agregar Producto,5269,425,361,5777,165.54,0.000%,20.70147,249.19,10.35,12326.4
+TOTAL,10604,754,361,21882,690.82,0.019%,41.48459,499.07,15.44,12319.1
